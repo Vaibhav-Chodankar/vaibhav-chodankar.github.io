@@ -1601,3 +1601,14 @@ a:focus {
         padding: 0 5px;
     }
 }
+
+
+.pf-c-custom {
+    padding-left: 4.3rem;
+}
+
+@media screen and (max-width: 769px) {
+    .pf-c-custom {
+        padding-left: 0rem;
+    }
+}
